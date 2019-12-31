@@ -10,7 +10,7 @@ function Header(){
   return(
     <header>
       <nav>
-      <h1>Facebook</h1>
+      <h1>facebook</h1>
         <div id="perfil">
           <span>Meu Perfil</span>
           <img src={Miranha}/>
