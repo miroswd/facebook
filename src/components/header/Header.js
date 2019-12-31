@@ -1,17 +1,22 @@
 import React from 'react'
-import miranha from '../assets/miranha.jpg'
+
+//Importing images
+import Miranha from '../../assets/miranha.jpg'
+
+// Importing Style
+import './style.css'
+
 function Header(){
   return(
     <header>
       <nav>
-        <h1>facebook</h1>
+      <h1>Facebook</h1>
         <div id="perfil">
           <span>Meu Perfil</span>
-          <img src={miranha}/>
+          <img src={Miranha}/>
         </div>
       </nav>
     </header>
-
   )
 }
 
