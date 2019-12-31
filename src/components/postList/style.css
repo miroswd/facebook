@@ -1,0 +1,17 @@
+.post-list{
+  width:720px;
+  margin:0 auto 20px;
+}
+
+.post{
+  margin-top:20px ;
+  padding: 20px;
+  
+  background-color: #FFF;
+
+  border-radius: 10px;
+  color:#3e3e3e;
+  line-height: 18px;
+  box-shadow: 0 0 10px rgba(0, 0 , 0 ,0.2);
+  
+}
